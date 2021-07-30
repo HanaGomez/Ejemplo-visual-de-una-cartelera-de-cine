@@ -10,3 +10,17 @@ h1{
 h3{
     text-align: center;
 }
+h4{
+  text-align: center;
+}
+/* esto es para el texto descriptivo */
+.d{width: '300px';text-align:justify ;padding: 10px;
+}
+/* aplicable a las categorias */
+.w{border-color: palevioletred;border-style:dotted ;border-width: 15px;}
+/* esto sirve para hacer espacio*/
+.e{background-color: white}
+/* esto es la parte de atras de los anuncios */
+.h{background:rgb(110, 187, 238);width:300px}
+/* tamaño de la imagen basico */
+.x{width:300px;object-fit:cover}
